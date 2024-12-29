@@ -1,0 +1,5 @@
+SELF CLOSING TAGS
+1. <img/>
+2. <command/>
+3. <br/>
+4. <input/>

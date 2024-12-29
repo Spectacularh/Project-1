@@ -1,0 +1,8 @@
+7 SEMATIC TAGS
+1. <title> </title>
+2. <head> </head>
+3. <header> </header>
+4. <footer> </footer>
+5. <section> </section>
+6. <style> </style>
+7. <aside> </aside>
